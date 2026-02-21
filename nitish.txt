@@ -1,3 +1,6 @@
 "hi bot"
 "STR"
 "eswari is a bot"
+
+"nitish is a bot"
+
