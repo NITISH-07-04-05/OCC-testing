@@ -1,2 +1,4 @@
 "hi bot"
 "STR"
+"Gowtham is a mega bot"
+"Kanishka is loosu"
