@@ -1,5 +1,3 @@
 "hi bot"
 "STR"
-"nitish bot"
-"Gowtham is a mega bot"
-"Kanishka is loosu"
+"eswari is a bot"
