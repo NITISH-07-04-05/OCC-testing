@@ -1,0 +1,12 @@
+name: PR Demo Wrokflow
+
+on:
+  pull request:
+
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Say Hello
+        run: echo"This is a workflow that ran during PR"
