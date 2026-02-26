@@ -1,4 +1,4 @@
 FROM alpine
 WORKDIR /app
 COPY . .
-CMD ["ls", "-la"]
+CMD ["echo", "Docker build successful"]
